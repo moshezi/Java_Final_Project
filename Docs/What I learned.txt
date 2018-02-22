@@ -1,0 +1,16 @@
+מה למדתי בקורס -
+- Inheritence and interfaces
+- Design Patterns
+	Singleton
+	Observer
+	Adapter
+	Strategy
+	Command
+	MVC
+	MVP
+- Threads
+- Sockets (Client-Server)
+- GUI ו-Swing
+- שימוש בגיט
+- Javadocs
+- אלגוריתמי חיפוש - BFS + AStar

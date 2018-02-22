@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<properties>
+	
+    <searchType>DFS</searchType>
+	
+    <heuristic>MANHATTAN</heuristic>
+	
+    <rows>8</rows>
+	
+    <cols>8</cols>
+	
+    <xStartPoint>5</xStartPoint>
+	
+    <yStartPoint>5</yStartPoint> 
+</properties>
